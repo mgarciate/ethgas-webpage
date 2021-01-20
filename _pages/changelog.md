@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
 title: What's New
-include_in_header: true
+include_in_header: false
 ---
 
 # Changelog
@@ -62,4 +62,4 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 - Improved user sign up experience.
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
-<br>
+<br> -->
